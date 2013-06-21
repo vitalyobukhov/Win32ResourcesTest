@@ -1,0 +1,2 @@
+Demo of work with Win32 string table resources using WinAPI.
+Includes resources injection, extraction, truncation using command line.
